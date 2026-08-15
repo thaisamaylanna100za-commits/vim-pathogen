@@ -1,4 +1,4 @@
-Follow the commit message guidelines at [commit.style](https://commit.style).
+Follow the commit message guidelines at [commit.style](https://commit.style).thai
 This is an absolute requirement for my repositories, and doing so proves you
 actually read the contribution guidelines, which makes for a good first
 impression.
